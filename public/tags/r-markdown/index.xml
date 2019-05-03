@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on CRSansom&#39;s Hugo website</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on CRSansom&#39;s Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Charlotte Museum of History</title>
+      <link>/2019/04/29/charlotte-museum-of-history/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/04/29/charlotte-museum-of-history/</guid>
+      <description>ContentsAbout Areas of Focus Data at a Glance Constraints Audience Analytics Demographic Segmentation Recommendations Appendix AboutOur focus for this project is the Charlotte Museum of History which is located in the Plaza Midwood community in Charlotte, North Carolina. The Museum has a large main gallery with rotating exhibits covering Charlotte history from the Revolutionary War through today. There are other preserved historic structures on the property, most notably, the Hezekiah Alexander House which is a restored farmhouse built in 1774 and is the oldest surviving structure in Mecklenburg County.</description>
+    </item>
+    
+  </channel>
+</rss>
